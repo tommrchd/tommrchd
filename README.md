@@ -5,7 +5,7 @@ IT Student 💻
 
 ### Working on :
 - **Java Plugins for Minecraft Events** (private for now)
-- - Basics to be independant
+  - Basics to be independant
 - **Symfony App** (school project)
 
 ### Working with :
