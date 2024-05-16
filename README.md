@@ -17,7 +17,7 @@ IT Student 💻
 [![Langages](https://skillicons.dev/icons?i=java,js,html,css,php,mysql)](https://github.com/tommrchd) <br>
 [![Softwares](https://skillicons.dev/icons?i=idea,phpstorm,vscode,androidstudio)](https://github.com/tommrchd) <br>
 [![Frameworks](https://skillicons.dev/icons?i=symfony,vue,pinia)](https://github.com/tommrchd) <br>
-[![Others](https://skillicons.dev/icons?i=bootstrap,cloudflare)](https://github.com/tommrchd) <br>
+[![Others](https://skillicons.dev/icons?i=discord,nodejs,npm,bootstrap,cloudflare)](https://github.com/tommrchd) <br>
 
 <!--
 **tommrchd/tommrchd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
