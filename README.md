@@ -5,12 +5,12 @@ IT Student 💻
 
 ### Working on :
 - **Java Plugins for Minecraft Events** (private for now)
-  - Utils plugins and gamemode
+  - `Utils plugins and gamemodes`
 - **Symfony App** (school project)
   - Web app working with Vue.js
 
-### Closed projects :
-🚧
+### 🚧 Closed projects :
+- **Better Discord Spotify Lyrics** (deprecated)
 
 ### Working with :
 [![Langages](https://skillicons.dev/icons?i=java,js,html,css,php,mysql)](https://github.com/tommrchd) <br>
