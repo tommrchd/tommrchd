@@ -1,7 +1,11 @@
 ## 👋 Hey, I'm Tom
 
+### About me :
+IT Student, I love to learn new things
+
 ### Working on :
 - **Java Plugins for Minecraft Events** (private for now)
+- - Basics to be independant
 - **Symfony App** (school project)
 
 ### Working with :
