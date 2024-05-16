@@ -1,7 +1,7 @@
 ## 👋 Hey, I'm Tom
 
 ### About me :
-IT Student, I love to learn new things
+IT Student 💻
 
 ### Working on :
 - **Java Plugins for Minecraft Events** (private for now)
