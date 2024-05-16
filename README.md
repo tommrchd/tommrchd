@@ -1,10 +1,11 @@
-## 👋 Hi there, I'm Tom
+## 👋 Hey, I'm Tom
 
 ### Working on :
-- Java Plugins for Minecraft Events
-- Symfony App
+- **Java Plugins for Minecraft Events** (private for now)
+- **Symfony App** (school project)
 
-#### Most of my repo's are private
+### Working with :
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)]
 
 <!--
 **tommrchd/tommrchd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
