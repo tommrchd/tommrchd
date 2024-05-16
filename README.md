@@ -5,7 +5,7 @@
 - **Symfony App** (school project)
 
 ### Working with :
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://github.com/tommrchd)
+[![Skills](https://skillicons.dev/icons?i=idea,phpstorm,vscode,java,symfony,vue,js,html,css,php,mysql,cloudflare,bootstrap)](https://github.com/tommrchd)
 
 <!--
 **tommrchd/tommrchd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
