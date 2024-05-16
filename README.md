@@ -3,13 +3,13 @@
 ### About me :
 IT Student 💻
 
-### Working on :
+### 🚧 Working on :
 - **Java Plugins for Minecraft Events** (private for now)
   - `Utils plugins and gamemodes`
 - **Symfony App** (school project)
   - `Web app working with Vue.js`
 
-### 🚧 Closed projects :
+### 🔒 Closed projects :
 - **Better Discord Spotify Lyrics** (deprecated)
   - `Updating your status synchronously with the lyrics of your music`
 
