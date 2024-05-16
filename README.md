@@ -5,10 +5,10 @@
 - **Symfony App** (school project)
 
 ### Working with :
-[![Langages](https://skillicons.dev/icons?i=java,js,html,css,php,mysql)](https://github.com/tommrchd)
-[![Softwares](https://skillicons.dev/icons?i=idea,phpstorm,vscode)](https://github.com/tommrchd)
-[![Frameworks](https://skillicons.dev/icons?i=symfony,vue)](https://github.com/tommrchd)
-[![Others](https://skillicons.dev/icons?i=bootstrap,cloudflare)](https://github.com/tommrchd)
+[![Langages](https://skillicons.dev/icons?i=java,js,html,css,php,mysql)](https://github.com/tommrchd) <br>
+[![Softwares](https://skillicons.dev/icons?i=idea,phpstorm,vscode)](https://github.com/tommrchd) <br>
+[![Frameworks](https://skillicons.dev/icons?i=symfony,vue)](https://github.com/tommrchd) <br>
+[![Others](https://skillicons.dev/icons?i=bootstrap,cloudflare)](https://github.com/tommrchd) <br>
 
 <!--
 **tommrchd/tommrchd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
