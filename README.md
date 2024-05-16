@@ -9,6 +9,9 @@ IT Student 💻
 - **Symfony App** (school project)
   - Web app working with Vue.js
 
+### Closed projects :
+🚧
+
 ### Working with :
 [![Langages](https://skillicons.dev/icons?i=java,js,html,css,php,mysql)](https://github.com/tommrchd) <br>
 [![Softwares](https://skillicons.dev/icons?i=idea,phpstorm,vscode,androidstudio)](https://github.com/tommrchd) <br>
