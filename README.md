@@ -1,8 +1,10 @@
-### 👋 Hi there, I'm Tom
+## 👋 Hi there, I'm Tom
 
-#### Working on :
+### Working on :
 - Java Plugins for Minecraft Events
 - Symfony App
+
+#### Most of my repo's are private
 
 <!--
 **tommrchd/tommrchd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
