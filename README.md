@@ -1,6 +1,6 @@
-###👋 Hi there, I'm Tom
+### 👋 Hi there, I'm Tom
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=philippart-s&theme=radical&hide_langs_below=8)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=tommrchd-s&theme=radical&hide_langs_below=8)
 
 <!--
 **tommrchd/tommrchd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
