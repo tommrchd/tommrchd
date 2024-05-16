@@ -2,7 +2,7 @@
 
 ### About me :
 IT Student 💻 <br>
-*Learning full stack development*
+*Learning full stack dev'*
 
 ### 🚧 Working on :
 - **Java Plugins for Minecraft Events** (private for now)
