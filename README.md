@@ -1,6 +1,8 @@
 ### 👋 Hi there, I'm Tom
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=tommrchd&theme=radical&hide_langs_below=8)
+#### Working on :
+- Java Plugins for Minecraft Events
+- Symfony App
 
 <!--
 **tommrchd/tommrchd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
