@@ -5,8 +5,9 @@ IT Student 💻
 
 ### Working on :
 - **Java Plugins for Minecraft Events** (private for now)
-  - Basics to be independant
+  - Utils plugins and gamemode
 - **Symfony App** (school project)
+  - Web app working with Vue.js
 
 ### Working with :
 [![Langages](https://skillicons.dev/icons?i=java,js,html,css,php,mysql)](https://github.com/tommrchd) <br>
