@@ -6,11 +6,11 @@ IT Student 💻 <br>
 
 ### 🚧 Working on :
 - **Java Plugins for Minecraft Events** (private for now)
-  - `Utils plugins and gamemodes`
+  - Utils plugins and gamemodes
 - **Node.js framework**
-  - `Web broadcast graphics framework`
-  - `Work with webhooks`
-  - `Optimized for OBS`
+  - Web broadcast graphics application
+  - Work with webhooks
+  - Optimized for OBS
 
 ### 🔒 Closed projects :
 - **Better Discord Spotify Lyrics** (deprecated)
