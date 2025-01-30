@@ -10,7 +10,7 @@ IT Student 💻 <br>
 - **Node.js framework**
   - Web broadcast graphics application
   - Work with webhooks
-  - Optimized for OBS
+  - For OBS integration
 
 ### 🔒 Closed projects :
 - **Better Discord Spotify Lyrics** (deprecated)
