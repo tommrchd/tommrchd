@@ -1,5 +1,3 @@
-## 👋 Hey, I'm Tom
-
 ### About me :
 *Learning full stack dev'*
 
